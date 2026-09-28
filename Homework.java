@@ -10,6 +10,8 @@ public class Homework {
         String message = "This is a constructor that helps committing the code to GitHub.";
         message = message + " It doesn't do anything else.";
         System.out.println(message);
+
+        System.out.println("Okay we did it!!!!!!!!");
     }
 
 }
